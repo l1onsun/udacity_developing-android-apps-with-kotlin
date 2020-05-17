@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Ilya Cherezov</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed auctor justo, vitae ultricies orci. Nullam porta lorem sit amet diam finibus, eu imperdiet est volutpat. Aenean vestibulum lacinia venenatis. Suspendisse cursus augue quis ultrices sagittis. Nunc ut aliquet velit. In elementum molestie dignissim. Maecenas fringilla arcu in lectus luctus mollis. Phasellus sagittis arcu ipsum, a imperdiet justo congue sit amet. Pellentesque vestibulum nisi eget tellus posuere mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+\n\n
+Suspendisse cursus enim vel lacus imperdiet porta. Vivamus lorem purus, efficitur nec tortor at, convallis sollicitudin mi. Nullam elementum lacus magna, vitae rutrum elit eleifend at. Phasellus aliquet sapien diam, at maximus mauris interdum eu. Quisque imperdiet, arcu nec ullamcorper bibendum, lectus massa pretium massa, eu vulputate risus felis sit amet lorem. Nunc scelerisque ipsum lorem, id vulputate risus iaculis ac. Etiam volutpat tincidunt elit quis dignissim. Donec euismod urna et vehicula pretium.
+\n\n
+Integer tellus turpis, rutrum vitae lectus sit amet, sodales tempus nunc. Sed fringilla, ante maximus ultricies sollicitudin, enim metus vehicula dolor, et finibus metus dui a est. Aenean convallis sem in porttitor gravida. Vestibulum sit amet mauris dui. Aenean non massa in turpis sodales pellentesque eget sed eros. Suspendisse potenti. Duis ultricies risus at magna mattis, non viverra neque malesuada.
+\n\n
+Aliquam feugiat, nunc a tincidunt tempus, urna lorem lacinia metus, non cursus lectus diam eget felis. Quisque lobortis et ex eu consequat. Pellentesque volutpat, est non congue ornare, felis tellus mollis velit, ac sollicitudin dui leo non erat. In vel nisl dui. In hac habitasse platea dictumst. Nullam iaculis posuere lectus ut molestie. Nunc efficitur venenatis ipsum, ac gravida nibh blandit nec. Mauris eleifend nec justo quis ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+\n\n
+Nam consectetur nunc nunc, non blandit libero iaculis eu. Nam vehicula orci nec orci consequat commodo. Aliquam vel accumsan lorem. Etiam elementum semper dolor, non mattis lacus posuere vitae. Ut id consectetur lacus. Duis mauris velit, molestie a ipsum ut, maximus maximus purus. Aliquam et odio lorem. Donec pharetra mi enim, sit amet viverra odio faucibus eu. In id arcu placerat nisi hendrerit viverra. Vestibulum dapibus urna et viverra egestas. Quisque iaculis, mi vel varius venenatis, risus arcu tristique libero, vel luctus enim ex eget erat. Curabitur lectus magna, vehicula eu consequat sed, efficitur suscipit ante. Proin eget gravida massa. Mauris dolor sapien, laoreet eget ornare vel, bibendum in lectus. Aenean dolor ex, congue ac quam at, condimentum pellentesque tellus. Pellentesque tincidunt rutrum dolor, sed malesuada nisl dignissim at.
+    </string>
+    <string name="nickname_hint">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
