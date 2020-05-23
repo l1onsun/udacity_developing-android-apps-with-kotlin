@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/game_fragment.xml",
+        "source": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/src/main/res/layout/game_fragment.xml"
+    },
+    {
+        "merged": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/score_fragment.xml",
+        "source": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/src/main/res/layout/score_fragment.xml"
+    },
+    {
+        "merged": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/title_fragment.xml",
+        "source": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/src/main/res/layout/title_fragment.xml"
+    }
+]
