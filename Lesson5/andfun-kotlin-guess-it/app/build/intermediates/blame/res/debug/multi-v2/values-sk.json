@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
+            "outputFile": "/home/l1onsun/AndroidStudioProjects/Lesson5/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
             "map": [
                 {
                     "source": "/home/l1onsun/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-rc02.aar/40ccf040713bfb0785639872316f00c4/res/values-sk/values-sk.xml",

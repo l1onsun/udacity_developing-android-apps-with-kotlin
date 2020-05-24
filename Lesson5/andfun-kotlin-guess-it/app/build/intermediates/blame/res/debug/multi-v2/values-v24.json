@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/home/l1onsun/AndroidStudioProjects/Lesson5/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/home/l1onsun/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/43dc8e8a9d9208427bb0684c2c2f62a4/res/values-v24/values-v24.xml",

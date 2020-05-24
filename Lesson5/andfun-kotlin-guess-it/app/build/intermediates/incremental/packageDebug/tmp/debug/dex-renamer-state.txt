@@ -1,4 +1,4 @@
-#Sat May 23 10:58:39 EET 2020
-base.0=/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/build/intermediates/dex/debug/mergeDexDebug/out
+#Sun May 24 12:15:04 EET 2020
+base.0=/home/l1onsun/AndroidStudioProjects/Lesson5/andfun-kotlin-guess-it/app/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/home/l1onsun/AndroidStudioProjects/Lesson5/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/home/l1onsun/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/182548b6a633cb52e1ed22c8540267e4/res/values-pt-rBR/values-pt-rBR.xml",

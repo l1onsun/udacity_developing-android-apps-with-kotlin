@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/l1onsun/AndroidStudioProjects/Lesson5/andfun-kotlin-guess-it/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "17,23,24,19,22,26,27,18,21,25,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "651,941,992,741,896,1083,1131,703,841,1034,791",
-                        "endColumns": "51,50,41,49,44,47,58,37,54,48,49",
-                        "endOffsets": "698,987,1029,786,936,1126,1185,736,891,1078,836"
-                    },
-                    "to": {
-                        "startLines": "583,590,591,601,602,603,604,606,608,609,610",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "34860,35698,35749,36990,37040,37085,37133,37245,37354,37409,37458",
-                        "endColumns": "51,50,41,49,44,47,58,37,54,48,49",
-                        "endOffsets": "34907,35744,35786,37035,37080,37128,37187,37278,37404,37453,37503"
-                    }
-                },
                 {
                     "source": "/home/l1onsun/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.2.aar/70616631fc3955e2b171cbeac54df606/res/values/values.xml",
                     "from": {
@@ -55,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/src/main/res/values/colors.xml",
+                    "source": "/home/l1onsun/AndroidStudioProjects/Lesson5/andfun-kotlin-guess-it/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "24,19,17,18,26,25,20,21,23,22,27",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -201,6 +184,23 @@
                     }
                 },
                 {
+                    "source": "/home/l1onsun/AndroidStudioProjects/Lesson5/andfun-kotlin-guess-it/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "17,23,24,19,22,26,27,18,21,25,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "651,941,992,741,896,1083,1131,703,841,1034,791",
+                        "endColumns": "51,50,41,49,44,47,58,37,54,48,49",
+                        "endOffsets": "698,987,1029,786,936,1126,1185,736,891,1078,836"
+                    },
+                    "to": {
+                        "startLines": "583,590,591,601,602,603,604,606,608,609,610",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "34860,35698,35749,36990,37040,37085,37133,37245,37354,37409,37458",
+                        "endColumns": "51,50,41,49,44,47,58,37,54,48,49",
+                        "endOffsets": "34907,35744,35786,37035,37080,37128,37187,37278,37404,37453,37503"
+                    }
+                },
+                {
                     "source": "/home/l1onsun/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/0b4648b164a291234cd5c8270be96b97/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,35,36,37,38,45,47,50,7",
@@ -239,7 +239,7 @@
                     }
                 },
                 {
-                    "source": "/home/l1onsun/AndroidStudioProjects/other/andfun-kotlin-guess-it/app/src/main/res/values/styles.xml",
+                    "source": "/home/l1onsun/AndroidStudioProjects/Lesson5/andfun-kotlin-guess-it/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "19,27,34",
                         "startColumns": "4,4,4",
